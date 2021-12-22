@@ -1,1 +1,1 @@
-# two_part_mixed_model
+The R and C++ codes for our paper "A Two-part Mixed Model for Differential Expression Analysis in Single-cell High-throughput Gene Expression Data" by Yang Shi, Ji-Hyun Lee, Huining Kang and Hui Jiang (under review).
