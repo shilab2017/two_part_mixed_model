@@ -1,0 +1,2 @@
+We temporarily removed the R code from this repository because the version of R used to implement the code is too old. We are currently working on developing an R package. If you have any questions regarding our paper, please contact Yang Shi at shiyang.scu@outlook.com.
+Y Shi, JH Lee, H Kang, H Jiang (2022). A Two-Part Mixed Model for Differential Expression Analysis in Single-Cell High-Throughput Gene Expression Data. Genes, 12 (3), 377.
